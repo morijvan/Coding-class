@@ -1,5 +1,5 @@
 import java.util.*;
-public class Test {
+public class LinkedListadd {
      public static void main(String args[]) {
         LinkedList<Integer> number = new LinkedList<>();
 
