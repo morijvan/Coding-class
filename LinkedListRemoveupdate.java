@@ -1,5 +1,5 @@
 import java.util.*;
-public class Test {
+public class LinkedListRemoveupdate {
      public static void main(String args[]) {
         LinkedList<Integer> number = new LinkedList<>();
          //add elements in LenkedList
