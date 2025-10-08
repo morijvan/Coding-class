@@ -1,5 +1,5 @@
 import java.util.*;
-public class Test {
+public class BinarySearch {
     public static int binarySearch(int num[], int key) {
         int n = num.length;
         int start = 0, end = n-1;
